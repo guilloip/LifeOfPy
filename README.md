@@ -1,2 +1,2 @@
 # LifeOfPy
-A Python (learning) version of Conway's Gamo of Life
+A Python (learning) version of Conway's Game of Life
